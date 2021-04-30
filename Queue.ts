@@ -60,5 +60,5 @@ class Queue{
 }
 
 var queue = new Queue();
-// console.log(queue.enqueue("maral"))
-// console.log(queue.dequeue());
+console.log(queue.enqueue("maral"))
+console.log(queue.dequeue());
